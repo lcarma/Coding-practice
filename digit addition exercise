@@ -8,6 +8,6 @@ x=input()
 y=int(x)
 
 if a+b == y:
-  print("great!")
+    print("great!")
 else :
-  print("wrong!")
+    print("wrong!")
