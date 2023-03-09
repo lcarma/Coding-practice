@@ -1,0 +1,13 @@
+#doulble-digit addition exercise
+
+import random
+a=random.randint(10,100)
+b=random.randint(10,100)
+print(a,"+",b,"=")
+x=input()
+y=int(x)
+
+if a+b == y:
+  print("great!")
+else :
+  print("wrong!")
